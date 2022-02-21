@@ -5,6 +5,7 @@ Pink
 orange 
 Blue
 Orange
+Unicorn
 Red
 Green
-These are the colours of Rainbow.
+These are the colours of Rainbow and Unicorn.
